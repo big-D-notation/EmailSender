@@ -1,0 +1,8 @@
+Hello, [name]!
+
+It's me, [support_name] from [company_name]'s support team.
+I'm here to inform you that your request #[request_id] is done!
+Please, check your account at [site_name]. Thank you!
+
+Best regards,
+[support_fullname]
